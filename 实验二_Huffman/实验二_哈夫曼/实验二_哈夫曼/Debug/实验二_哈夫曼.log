@@ -1,0 +1,6 @@
+﻿  实验二_哈夫曼.cpp
+c:\users\fengy\desktop\实验二_哈夫曼\实验二_哈夫曼\实验二_哈夫曼.cpp(62): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\fengy\desktop\实验二_哈夫曼\实验二_哈夫曼\实验二_哈夫曼.cpp(156): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\fengy\desktop\实验二_哈夫曼\实验二_哈夫曼\实验二_哈夫曼.cpp(189): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\fengy\desktop\实验二_哈夫曼\实验二_哈夫曼\实验二_哈夫曼.cpp(205): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  实验二_哈夫曼.vcxproj -> C:\Users\fengy\Desktop\实验二_哈夫曼\Debug\实验二_哈夫曼.exe
